@@ -8,6 +8,7 @@ index:
 - create-gpts
 - train-gpt
 - use-system-prompt
+- agentic-ai
 - use-semantic-kernel
 - evaluate-slms-vs-azure-cloud-llms
 - choosing-large-language-models
@@ -18,6 +19,8 @@ index:
 - use-embeddings
 - best-ai-powered-ide
 - ai-for-frontend-development
+- avoid-ai-hallucinations
+- make-your-website-llm-friendly
 
 ---
 
