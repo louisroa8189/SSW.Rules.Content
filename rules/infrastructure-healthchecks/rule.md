@@ -1,7 +1,7 @@
 ---
-seoDescription: Website dependency and infrastructure healthchecks
 type: rule
 title: Do you Healthcheck your Infrastructure?
+seoDescription: Website dependency and infrastructure healthchecks
 uri: infrastructure-healthchecks
 authors:
   - title: Adam Cogan
@@ -10,17 +10,17 @@ authors:
     url: https://ssw.com.au/people/lewis-toh
   - title: Luke Cook
     url: https://ssw.com.au/people/luke-cook
-  
-related: []
+related:
+  - have-a-healthcheck-page-to-make-sure-your-website-is-healthy
 redirects:
   - do-you-have-a-healthcheck-was-zsvalidate-page-to-test-your-website-dependencies
-  - do-you-have-a-healthcheck-(was-zsvalidate)-page-to-test-your-website-dependencies
+  - do-you-have-a-healthcheck-(was-zsvalidate)
+  - page-to-test-your-website-dependencies
   - have-a-healthcheck-page-to-test-your-website-dependencies
 created: 2020-03-12T20:57:37.000Z
 archivedreason: null
 guid: 015fcac3-c2c2-4d25-a6cd-1317eed69fc6
 ---
-
 Most developers include [healthchecks for their own applications](/have-a-healthcheck-page-to-make-sure-your-website-is-healthy/), but modern solutions are often highly dependent on external cloud infrastructure. When critical services go down, your app could become unresponsive or fail entirely. Ensuring your infrastructure is healthy is just as important as your app.
 
 <!--endintro-->
@@ -32,6 +32,12 @@ Enterprise applications typically leverage a large number of cloud services; dat
 `youtube: https://www.youtube.com/watch?v=4abSfjdzqms`
 **Figure: How to add Healthchecks in ASP.NET Core (11 min)**
 
+## Setting Up Health Checks for App & Infrastructure in .NET
+
+To set up health checks in a .NET application, start by configuring the built-in HealthChecks middleware in your Program.cs (or Startup.cs for older versions). Use AddHealthChecks() to monitor core application behavior, and extend it with specific checks for infrastructure services such as databases, Redis, or external APIs using packages like AspNetCore.HealthChecks.SqlServer or AspNetCore.HealthChecks.Redis. This approach ensures your health endpoint reflects the status of both your app and its critical dependencies.
+
+👉 See detailed implementation steps in the **video above**, and refer to the official [Microsoft documentation](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-9.0) for further configuration examples and advanced usage
+
 ## Alerts and responses
 
 Adding comprehensive healthchecks is great, but if no-one is told about it - what's the point? There are awesome tools available to notify Site Reliability Engineers (SREs) or SysAdmins when something is offline, so make sure your app is set up to use them! For instance, Azure's [Azure Monitor Alerts](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview) and AWS' [CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html) provide a suite of configurable options for who, what, when, and how alerts should be fired.
@@ -42,7 +48,41 @@ Depending on your needs, you may want to bake in a healthcheck UI directly into 
 
 ![Figure: AspNetCore.HealthChecks.UI gives you a healthcheck dashboard OOTB](https://raw.githubusercontent.com/Xabaril/AspNetCore.Diagnostics.HealthChecks/refs/heads/master/doc/images/ui-home.png)
 
+## Tips for Securing Your Health Check Endpoints
+
+Keep health check endpoints internal by default to avoid exposing sensitive system data.
+
+## Health checks in Azure
+
+When deploying apps in Azure it's good practice to enable Health checks within the Azure portal. The Azure portal allows you to perform health checks on specific paths for your app service. Azure pings these paths at 1 minute intervals ensuring the response code is between **200** and **299**. If 10 consecutive responses with error codes accumulate the app service will be deemed unhealthy and will be replaced with a new instance.
+
+
+::: good
+![Figure: Good example - Performing a health check on an azure app service](image-3-.png)
+:::
+
+### Private Health Check – Best Practices
+
+✅ Require authentication (API key, bearer token, etc.)
+
+✅ (Optional) Restrict access by IP range, VNET, or internal DNS
+
+✅ Include detailed diagnostics (e.g., database, Redis, third-party services)
+
+✅ Integrate with internal observability tools like Azure Monitor
+
+✅ Keep health checks lightweight and fast. Avoid overly complex checks that could increase response times or strain system resources.
+
+✅ Use caching and timeout strategies. To avoid excessive load, health checks can timeout gracefully and cache results to prevent redundant checks under high traffic. See more details on official [Microsoft's documentation](https://learn.microsoft.com/en-us/samples/dotnet/aspire-samples/aspire-health-checks-ui/).
+
 ## Handle offline infrastructure gracefully
+
+| Category         | Example Services                                                      |
+| ---------------- | --------------------------------------------------------------------- |
+| **Critical**     | Database, Redis cache, authentication service (e.g., Auth0, Azure AD) |
+| **Non-Critical** | OpenAI API, email/SMS providers, analytics tools                      |
+
+**Table: Example of Critical and Non Critical Services in an application**
 
 When using non-critical infrastructure like an LLM-powered chatbot, make sure to implement graceful degradation strategies. Instead of failing completely, this allows your app to respond intelligently to infrastructure outages, whether through fallback logic, informative user messages, or retry mechanisms when the service is back online.
 
