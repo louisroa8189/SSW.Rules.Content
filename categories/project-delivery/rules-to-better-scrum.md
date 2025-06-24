@@ -11,6 +11,7 @@ index:
   - what-happens-at-retro-meetings
   - what-happens-at-a-sprint-planning-meeting
   - methodology-daily-scrums
+  - bread-daily-scrums
   - the-3-commitments-in-scrum
   - do-you-know-the-how-to-be-a-good-product-owner
   - work-in-priority-order
@@ -19,8 +20,9 @@ index:
   - create-pbis-under-2-days
   - definition-of-done
   - have-a-definition-of-ready
+  - react-to-reviewed-pbis
   - break-tasks
-  - estimating-do-you-know-how-to-size-user-stories-effectively
+  - size-pbis-effectively
   - do-you-estimate-business-value
   - technical-overview
   - send-sprint-forecast-and-sprint-review-retro-emails-to-the-client
