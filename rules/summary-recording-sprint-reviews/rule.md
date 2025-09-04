@@ -27,12 +27,18 @@ Creating a comprehensive summary and recording of your Sprint Meeting is a great
 
 <!--endintro-->
 
+Learn more on what happens at [Sprint Retrospective](/what-happens-at-retro-meetings), [Sprint Review](//what-happens-at-a-sprint-review-meeting), and [Sprint Planning](/what-happens-at-a-sprint-planning-meeting) meetings.
+
 ## Why record a summary of the Sprint Meeting?
 
 * **Clarity:** Provides a clear, accessible update for all stakeholders, including those not present
 * **Documentation:** Serves as a historical record of decisions and discussions, valuable for future Sprints and project continuity
 * **Engagement:** Ensures that all stakeholders, regardless of their availability to attend, have access to the same information, promoting inclusiveness and alignment
 * **Community:** Allows the community at large to see what is happening on a product and provide feedback
+
+::: info
+To keep stakeholders informed beyond the Sprint Review, you should record a [Monthly Stakeholder Video](/monthly-stakeholder-video) to share key progress, blockers, and upcoming priorities.
+:::
 
 ## Prepare for the Sprint Meeting recording
 
@@ -42,6 +48,12 @@ Before you start recording, ensure you have the right people ready for key roles
 * **Have someone ready to [YakShave](https://yakshaver.ai):** Designate someone to handle secondary recordings during the meeting. While the main presenter is recording the Sprint summary, this person can start separate recordings (YakShaves) to create tasks or work items as needed
 
 Having these roles clearly defined beforehand ensures a smoother recording process and better documentation of your Sprint Meeting.
+
+### Avoid long pauses
+
+During the meeting, don’t pause ask, “Does anyone have any questions?” — this often leads to awkward silence and slows down the meeting.
+
+Instead, remind the team before to **use the “Raise Hand” feature** in Microsoft Teams if they have something to say. This keeps the meeting moving and ensures everyone gets a chance to contribute without unnecessary delays.
 
 ## Record the Sprint Meeting summary
 
@@ -57,7 +69,7 @@ Here's a suggested runsheet for what to cover in the video:
 
 See [useful tips on how to make great videos](/making-a-great-done-video).
 
-**Note:** Everyone should be free to speak candidly in a Sprint Retrospective, and you don’t want the fact that there will be a recorded summary to make people not speak up. The recorded retro should only include the main good and bad points... it gives *some* window into the team, but not everything.
+**Note:** Everyone should be free to speak candidly in a Sprint Retrospective, and you don’t want the fact that there will be a recorded summary to make people not speak up. The recorded retro should **only** include the main good and bad points... it gives **some** window into the team, but not everything.
 
 ::: info
 **Tip:** To make the video more entertaining, get more than one person to talk (e.g. ask someone to talk about a PBI that they worked on). Also, when you have a chance, try to include a [YakShave](https://yakshaver.ai) during the recording.

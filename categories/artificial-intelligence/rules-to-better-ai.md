@@ -16,6 +16,7 @@ index:
 - weekly-ai-meetings
 - company-ai-tools
 - connect-chatgpt-with-virtual-assistant
+- use-ai-receptionist
 - install-chatgpt-as-an-app
 - chatgpt-can-help-code
 - chatgpt-can-fix-errors
@@ -26,9 +27,11 @@ index:
 - manage-security-risks-when-adopting-ai-solutions
 - manage-legal-implications-of-ai
 - mitigate-brand-risks-ai
+- run-llms-locally
 - mcp-server
 - use-mcp-to-standardize-llm-connections
 - digest-microsoft-form
+- copilot-lingo
 
 ---
 
