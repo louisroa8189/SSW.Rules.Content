@@ -43,9 +43,26 @@ Source: [Apollo.io](https://www.apollo.io/academy/guides/pipeline-generation/col
 5. **Length:** ≤100 words for T2/3; T1 can be longer if it’s truly personal.  
 6. **Tone:** human, plain English, zero fluff.
 
+::: greybox
+SUBJECT: Exploring Synergies with Coupons2Go
+
+Hi [Contact Name],
+My name is Josh and I am with Coupons2Go, an industry-leading, award-winning digital couponing platform that has been providing innovative solutions since 2015.
+
+We are reaching out to key players in the travel center space to introduce our comprehensive suite of services.
+
+Our proprietary platform leverages cutting-edge technology, including AI-driven analytics and machine learning algorithms, to optimize customer engagement and maximize ROI. Our key features include a customizable user interface, robust back-end reporting, seamless POS integration, and a nationwide network of participating brands. We offer multiple service tiers, from our basic package to our enterprise-level solution, all designed to enhance brand loyalty and drive incremental revenue.
+
+I would like to schedule a 30-minute demonstration of our platform's capabilities with you and your team. Please let me know what time works best for you next week.
+
+Best regards,
+Josh
+:::
 ::: bad
+❌ Bad Example - Long, generic, self-focused “brochure email” gets skimmed and ignored
+:::
 
-
+::: bad
 ![Figure: Bad Example - Long, generic, self-focused “brochure email” gets skimmed and ignored](/mnt/data/imgi_67_image.png)
 :::
 
