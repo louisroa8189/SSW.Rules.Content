@@ -47,6 +47,7 @@ Source: [Apollo.io](https://www.apollo.io/academy/guides/pipeline-generation/col
 SUBJECT: Exploring Synergies with Coupons2Go
 
 Hi [Contact Name],
+
 My name is Josh and I am with Coupons2Go, an industry-leading, award-winning digital couponing platform that has been providing innovative solutions since 2015.
 
 We are reaching out to key players in the travel center space to introduce our comprehensive suite of services.
@@ -62,16 +63,25 @@ Josh
 ❌ Bad Example - Long, generic, self-focused “brochure email” gets skimmed and ignored
 :::
 
-::: bad
-![Figure: Bad Example - Long, generic, self-focused “brochure email” gets skimmed and ignored](/mnt/data/imgi_67_image.png)
-:::
+::: greybox
+SUBJECT: question about your loyalty program
 
-::: good
-![Figure: Good Example - Short, segmented template: pain → proof → small ask (great for Tier 2)](/mnt/data/imgi_66_image.png)
-:::
+Hi Jim,
 
+Just saw on LinkedIn that your team at Pilot/Flying J is hiring for a new loyalty marketing manager — congrats on the growth.
+
+Usually when companies expand that team, it means they're struggling to keep their massive customer base engaged beyond the point of sale. It's a huge challenge to make each of your 1.5 million daily visitors feel like an individual.
+
+We recently helped a similar multi-location brand, [Lesser Competitor Name], boost their repeat customer visits by 15% in one quarter by implementing a targeted digital coupon strategy.
+
+Do you have 15 minutes next week to chat about how you're approaching this? Might be able to share a few ideas that have worked for others.
+
+Cheers,
+
+Josh
+:::
 ::: good
-![Figure: Good Example - Subject line that pattern-interrupts and is clearly written \*just\* for the recipient](/mnt/data/imgi_64_image.png)
+✅ Good Example - Short, segmented template: pain → proof → small ask
 :::
 
 ## Write it (with examples)
