@@ -44,17 +44,17 @@ Source: [Apollo.io](https://www.apollo.io/academy/guides/pipeline-generation/col
 6. **Tone:** human, plain English, zero fluff.
 
 ::: greybox
-SUBJECT: Exploring Synergies with Coupons2Go
+**SUBJECT:** Exploring Synergies with Coupons2Go
 
-Hi [Contact Name],
+Hi \[Contact Name],
 
-My name is Josh and I am with Coupons2Go, an industry-leading, award-winning digital couponing platform that has been providing innovative solutions since 2015.
+**OPENER:** My name is Josh and I am with Coupons2Go, an industry-leading, award-winning digital couponing platform that has been providing innovative solutions since 2015.
 
 We are reaching out to key players in the travel center space to introduce our comprehensive suite of services.
 
-Our proprietary platform leverages cutting-edge technology, including AI-driven analytics and machine learning algorithms, to optimize customer engagement and maximize ROI. Our key features include a customizable user interface, robust back-end reporting, seamless POS integration, and a nationwide network of participating brands. We offer multiple service tiers, from our basic package to our enterprise-level solution, all designed to enhance brand loyalty and drive incremental revenue.
+**VALUE:** Our proprietary platform leverages cutting-edge technology, including AI-driven analytics and machine learning algorithms, to optimize customer engagement and maximize ROI. Our key features include a customizable user interface, robust back-end reporting, seamless POS integration, and a nationwide network of participating brands. We offer multiple service tiers, from our basic package to our enterprise-level solution, all designed to enhance brand loyalty and drive incremental revenue.
 
-I would like to schedule a 30-minute demonstration of our platform's capabilities with you and your team. Please let me know what time works best for you next week.
+**CTA:** I would like to schedule a 30-minute demonstration of our platform's capabilities with you and your team. Please let me know what time works best for you next week.
 
 Best regards,
 Josh
@@ -64,17 +64,17 @@ Josh
 :::
 
 ::: greybox
-SUBJECT: question about your loyalty program
+**SUBJECT:** question about your loyalty program
 
 Hi Jim,
 
-Just saw on LinkedIn that your team at Pilot/Flying J is hiring for a new loyalty marketing manager — congrats on the growth.
+**OPENER:** Just saw on LinkedIn that your team at Pilot/Flying J is hiring for a new loyalty marketing manager — congrats on the growth.
 
-Usually when companies expand that team, it means they're struggling to keep their massive customer base engaged beyond the point of sale. It's a huge challenge to make each of your 1.5 million daily visitors feel like an individual.
+**VALUE:** Usually when companies expand that team, it means they're struggling to keep their massive customer base engaged beyond the point of sale. It's a huge challenge to make each of your 1.5 million daily visitors feel like an individual.
 
-We recently helped a similar multi-location brand, [Lesser Competitor Name], boost their repeat customer visits by 15% in one quarter by implementing a targeted digital coupon strategy.
+We recently helped a similar multi-location brand, \[Lesser Competitor Name], boost their repeat customer visits by 15% in one quarter by implementing a targeted digital coupon strategy.
 
-Do you have 15 minutes next week to chat about how you're approaching this? Might be able to share a few ideas that have worked for others.
+**CTA:** Do you have 15 minutes next week to chat about how you're approaching this? Might be able to share a few ideas that have worked for others.
 
 Cheers,
 
