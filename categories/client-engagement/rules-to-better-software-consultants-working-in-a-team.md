@@ -9,6 +9,7 @@ index:
 - professional-integrity-tools
 - strong-suits
 - do-you-manage-up
+- elephant-in-the-room
 - follow-up-effectively
 - do-you-know-the-5-dysfunctions-of-a-team
 - teamwork-pillars
@@ -34,14 +35,11 @@ index:
 - how-to-avoid-being-blocked
 - cc-account-manager-on-emails-related-to-new-work
 - do-you-enjoy-your-job
-- do-you-create-a-report-whenever-you-need-a-number-from-a-system
 - do-you-give-120-when-deadlines-are-tight
 - do-you-give-people-a-second-chance
 - do-you-offer-positive-feedback-to-your-team
 - do-you-offer-specific-criticism
 - do-you-only-do-what-you-think-is-right
-- dress-code
-- do-you-have-your-mobile-phone-on-vibrate
 - give-enough-notice-for-annual-leave
 - purchase-please
 - do-you-know-the-best-books-to-read-on-software-development
@@ -55,7 +53,6 @@ index:
 - share-preferences-but-accept-less-interesting-tasks
 - do-you-use-source-control-and-backups
 - do-you-use-voice-recordings-when-appropriate
-- efficiency-do-you-use-two-monitors
 - hand-over-responsibilities
 - collaborate-across-timezones
 - protect-your-teams-creativity
@@ -63,7 +60,6 @@ index:
 - quality-do-you-get-your-most-experienced-colleagues-to-check-your-work
 - quality-do-you-implement-an-error-logger-that-has-notifications
 - request-a-test-please
-- quality-do-you-only-deploy-after-a-test-please
 - quality-do-you-make-your-templates-accessible-to-everyone-in-your-organisation
 - do-you-teach-share-ideas-regularly
 - speaking-do-you-avoid-swearing-at-work
@@ -89,4 +85,4 @@ index:
 - microsoft-planner-for-tasks
 ---
 
-Enhance software consulting practices by exploring essential principles that focus on teamwork, communication, and professionalism. Discover key rules designed to foster collaboration and integrity among consultants.
+Enhance software consulting practices by exploring essential principles that focus on teamwork, communication, and [working in a nice office](/rules-to-better-offices).

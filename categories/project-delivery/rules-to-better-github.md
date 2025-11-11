@@ -8,7 +8,7 @@ index:
   - do-you-know-how-to-name-a-github-repository
   - add-a-description-to-github-repositories
   - do-you-know-how-to-structure-a-project-for-github
-  - do-you-know-how-to-use-tags-for-github-issues
+  - using-labels-for-github-issues
   - remove-confidential-information-from-github
   - github-issue-templates
   - github-content-changes
@@ -30,7 +30,8 @@ index:
   - override-branch-protection
   - use-github-discussions
   - use-github-topics
-  - react-to-github
+  - react-and-vote-on-github
+  - react-to-reviewed-pbis
   - use-github-teams-for-collaborator-permissions
   - github-mobile
   - how-to-view-activity-traffic-and-contributions-of-a-project
@@ -46,6 +47,7 @@ index:
   - over-the-shoulder
   - use-gated-deployments
   - use-tasklists-in-your-pbis
+  - handle-duplicate-pbis
   - close-pbis-with-context
   - avoid-auto-closing-issues
   - enterprise-secrets-in-pipelines

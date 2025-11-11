@@ -1,7 +1,8 @@
 ---
-seoDescription: Master the art of crafting and delivering engaging presentations with proven tips and strategies for confident and effective communication
 type: rule
 title: Do you craft and deliver engaging presentations?
+seoDescription: Master the art of crafting and delivering engaging presentations
+  with proven tips and strategies for confident and effective communication
 uri: craft-and-deliver-engaging-presentations
 authors:
   - title: Ulysses Maclaren
@@ -9,6 +10,7 @@ authors:
   - title: Andrew Forsyth
     url: https://www.ssw.com.au/people/andrew-forsyth
 related:
+  - practice-makes-perfect
   - presenter-icon
 redirects:
   - do-you-know-the-basic-dos-and-donts-of-presenting
@@ -43,13 +45,13 @@ Structure & learn your content well and then rehearse the delivery for a given a
 `youtube: https://youtu.be/V8eLdbKXGzk`
 
 ::: bad
-Figure: Bad example – Ill prepared and low energy. They shows you how to fix it though
+Video: Bad example – Ill prepared and low energy. They show you how to fix it, though (5 min)
 :::
 
 `youtube: https://youtu.be/nPIAiPhKtvc`
 
 ::: good
-Figure: Good example - A well prepared presentation with an excellent delivery
+Video: Good example - A well prepared presentation with an excellent delivery (1 hr 9 min)
 :::
 
 ## Be understood
@@ -62,7 +64,7 @@ For more information read about [identifying your audience knowledge level](http
 
 Gain repeated exposure to high-pressure situations - staying cool and dealing with problems as they arise without derailing yourself or the audience.
 
-![](picture3.jpg)
+![Figure: The only way to get comfortable speaking... is to start speaking](picture3.jpg)
 
 ## Know mistakes happen and that's OK
 
@@ -79,14 +81,30 @@ A good way to achieve a strong delivery is to avoid using filler and non-words. 
 `youtube: https://youtu.be/mlDAO7DgJNk?si=17Dci0Ub-z_oZOE6`
 
 ::: good
-Figure: Good example - Using silence to strengthen your message
+Video: Good example - Using silence to strengthen your message (1 min)
 :::
+
+## Engage your audience
+
+Ask your audience questions audience members questions during your presentation. Even simple yes or no questions can make the audience feel like they're part of the conversation. For example, consider asking for a show of hands.
+
+## Use AI to help you prepare
+
+AI can be useful for both preparing and testing your presentation. While never a substitute for a real human, it can be a sounding board for general structure, talking points, and flow. Use it to help build your first draft, before putting it in front of other subject matter experts (SMEs) for feedback.
+
+### AI practice tools
+
+While the usual suspects (GPT, Claude, etc.) are good for content and structure, they can't assess or provide feedback on your performance. Instead, you should use more presentation-specific tooling that can measure your delivery, tone, and eye contact. Some useful tools in this area are:
+
+* [Microsoft Speaker Coach](https://support.microsoft.com/en-au/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+* [Yoodli](https://yoodli.ai/)
 
 ::: info
 **Extra tips:** Scott Hanselman, a very well-known Microsoft public speaker, gave these tips in his Pluralsight course: [The Art of Speaking: Scott Hanselman](https://www.pluralsight.com/courses/hanselman-speaking).
 
+* Consider attire vs background - make sure there's contrast
 * Don't touch your face
-* Don't put your hands in your pockets, or if you do, don’t have your keys in your pockets
+* Don't put your hands in your pockets, or if you do, don’t have keys in your pockets
 * Don't rock back and forth
 * If you’re moving, move deliberately
   * When you're walking, they’ll look at you

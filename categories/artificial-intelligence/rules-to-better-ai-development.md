@@ -6,6 +6,8 @@ uri: rules-to-better-ai-development
 consulting: https://www.ssw.com.au/consulting/artificial-intelligence
 index:
 - ai-assisted-development-workflow
+- use-github-copilot-cli-secure-environment
+- github-copilot-chat-modes
 - create-gpts
 - train-gpt
 - use-system-prompt
@@ -21,9 +23,14 @@ index:
 - use-embeddings
 - best-ai-powered-ide
 - ai-for-frontend-development
+- ai-for-prototype-development
+- build-hallucination-proof-ai-assistants
 - avoid-ai-hallucinations
 - make-your-website-llm-friendly
-
+- dataverse-ai-options
+- keep-task-summaries-from-ai-assisted-development
+- attribute-ai-assisted-commits-with-co-authors
+- ai-assistants-work-in-repository-directory
 ---
 
 Want to revolutionize your business with AI? Check [SSW's Artificial Intelligence and Machine Learning consulting page](https://www.ssw.com.au/consulting/artificial-intelligence).

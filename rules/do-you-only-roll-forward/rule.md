@@ -16,10 +16,7 @@ authors:
     url: https://www.ssw.com.au/people/matt-wicks
   - title: Matt Goldman
     url: https://www.ssw.com.au/people/matt-goldman
-related:
-  - rules-to-better-continuous-deployment-with-tfs
-  - rules-to-better-testing
-  - rules-to-better-application-insights
+related: []
 created: 2024-07-10T05:56:48.707Z
 guid: dc944a7a-f2dd-4410-8629-5eb8d320ff51
 redirects:
@@ -33,7 +30,7 @@ When there's a major error during deployment or a catastrophic fault happens, wh
 
 It feels like reverting back to the previous stable version is the safest and quickest way to restore functionality.
 
-![Fixing Problems](https://imgs.xkcd.com/comics/fixing_problems.png)
+![Figure: Fixing Problems](https://imgs.xkcd.com/comics/fixing_problems.png)
 
 However, rolling back can have several negative consequences, making it crucial to consider the drawbacks:
 

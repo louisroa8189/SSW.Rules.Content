@@ -8,6 +8,7 @@ index:
   - the-steps-to-do-after-adding-a-page
   - create-friendly-short-urls
   - structured-website
+  - sitemap-xml-best-practices
   - always-have-a-default-index-page
   - have-a-stylesheet-file
   - scoped-css
@@ -69,6 +70,7 @@ index:
   - keep-website-loading-time-acceptable
   - best-commenting-engine
   - do-you-know-the-best-framework-to-build-an-admin-interface
+  - last-updated-by
 ---
 
 Enhance your web development practices by adhering to essential guidelines that ensure performance, maintainability, and user experience. This collection covers key aspects such as technology selection, site structure, error handling, and optimization techniques, empowering you to create effective and user-friendly websites.

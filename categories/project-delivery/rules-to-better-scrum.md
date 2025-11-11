@@ -20,6 +20,7 @@ index:
   - create-pbis-under-2-days
   - definition-of-done
   - have-a-definition-of-ready
+  - include-links-in-dones
   - react-to-reviewed-pbis
   - break-tasks
   - size-pbis-effectively
@@ -70,6 +71,7 @@ index:
   - backlog-refinement-meeting
   - acceptance-criteria
   - do-you-assign-severity-levels
+  - uat-in-sprint
 ---
 
 Ready to revolutionize your project management? Check [SSW's Scrum and Agile Methodologies consulting page](https://www.ssw.com.au/consulting/scrum).

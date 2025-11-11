@@ -11,6 +11,7 @@ index:
 - what-is-chatgpt
 - chatgpt-skills-weaknesses
 - what-is-gpt
+- avoid-automation-bias
 - chatgpt-vs-gpt
 - automatic-code-reviews-github
 - weekly-ai-meetings
@@ -28,6 +29,7 @@ index:
 - manage-legal-implications-of-ai
 - mitigate-brand-risks-ai
 - run-llms-locally
+- choose-language-mcp
 - mcp-server
 - use-mcp-to-standardize-llm-connections
 - digest-microsoft-form

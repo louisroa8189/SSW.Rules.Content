@@ -7,6 +7,8 @@ index:
 - dones-is-your-inbox-a-task-list-only
 - use-email-for-tasks-only
 - reply-done
+- include-links-in-dones
+- done-email-for-bug-fixes
 - send-to-myself-emails
 - as-per-our-conversation-emails
 - number-tasks-questions
@@ -29,7 +31,6 @@ index:
 - send-email-tasks-to-individuals
 - add-context-reasoning-to-emails
 - seek-clarification-via-phone
-- include-links-in-emails
 - dones-do-you-reply-done-using-team-companion-when-using-tfs
 - include-useful-details-in-emails
 - keep-email-history
@@ -37,7 +38,6 @@ index:
 - dones-do-you-include-relevant-info-from-attachments-in-the-body-of-the-email
 - are-you-aware-of-the-importance-of-a-clients-email-attachment
 - avoid-large-attachments-in-emails
-- how-to-do-a-perfect-done
 - avoid-replying-to-all-when-bcced
 - email-add-or-remove-someone-from-conversation
 - replying-in-the-same-medium
@@ -79,6 +79,7 @@ index:
 - avoid-sarcasm-misunderstanding
 - autocorrect-in-outlook
 - dictate-emails
+- readable-screenshots
 - screenshots-avoid-walls-of-text
 - screenshots-add-branding
 - bounces-do-you-know-what-to-do-with-bounced-email
